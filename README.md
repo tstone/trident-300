@@ -1,10 +1,11 @@
 # Trident 300 "Teal"
 
-<br/>
+## Colors
+  - Primary: [Paramount 3D ABS Fighter Jet Blue](https://www.paramount-3d.com/product-page/abs-pantone-fighter-jet-blue-7546c-1-75mm-1kg-filament-fbrl50087546c)
+  - Secondary: [Polymaker Polylite ASA Teal](https://us.polymaker.com/products/polylite-asa?variant=40294530940985)
+  - Frame: LDO Space Gray
 
-## Physical
-
-### Electronics
+## Electronics
  - **A/B Motors**: LDO-42STH48-2004MAH
  - **Z Motors**: LDO-42STH40-1684L300E
  - **Extruder Motor**: LDO-36STH20-1004AHG
@@ -13,13 +14,6 @@
  - **Can Interface**: BTT U2C v2.1
  - **Toolhead**: Board: BTT EBB36 v1.2
  - **Hotend**: E3D Revo Voron
-
-### Colors
-  - Primary: [Paramount 3D ABS Fighter Jet Blue](https://www.paramount-3d.com/product-page/abs-pantone-fighter-jet-blue-7546c-1-75mm-1kg-filament-fbrl50087546c)
-  - Secondary: [Polymaker Polylite ASA Teal](https://us.polymaker.com/products/polylite-asa?variant=40294530940985)
-  - Frame: LDO Space Gray
-
-<br/>
 
 ## Mods
  - Klicky PCB: https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
@@ -51,3 +45,9 @@
 
 ### TBD
   - Trident Bed Fans: https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
+  
+## Reference
+ - [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
+ - [BTT Manta M8P Manual](https://github.com/bigtreetech/Manta-M8P/blob/master/BIGTREETECH%20MANTA%20M8P%20V1.0%26V1.1%20User%20Manual.pdf)
+ - [BTT EB36 Manual](https://github.com/bigtreetech/EBB/tree/master/EBB%20CAN%20V1.1%20(STM32G0B1)/EBB36%20CAN%20V1.1)
+ - [BTT U2C v2.1 Setup Instructions (Voron Discord)](https://discord.com/channels/460117602945990666/1000794039832035530/1016059566439538759)
