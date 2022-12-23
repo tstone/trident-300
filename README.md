@@ -1,7 +1,6 @@
 # Trident 300 "Teal"
 
-## Klipper Config
-[here](https://github.com/tstone/trident-300/tree/main/config)
+<br/>
 
 ## Physical
 
@@ -20,6 +19,8 @@
   - Secondary: [Polymaker Polylite ASA Teal](https://us.polymaker.com/products/polylite-asa?variant=40294530940985)
   - Frame: LDO Space Gray
 
+<br/>
+
 ## Mods
  - Klicky PCB: https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
  - Pin Mod: https://mods.vorondesign.com/detail/C8XJJ0fBGfBFKQZctjKeA
@@ -27,11 +28,11 @@
  - Stealth Bed Front: https://github.com/MapleLeafMakers/Stealth_Bed_Front
  - U2C Mount: https://mods.vorondesign.com/detail/guUSuCXHsOqPH1Xn5cS1Ag 
  - M8P bracket: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/gerritwellen/manta-m8p-bracket
- - Insulation: 3mm under deck
+ - Insulation: [3mm cell foam](https://www.amazon.com/dp/B01KX94XE6?psc=1&ref=ppx_yo2ov_dt_b_product_details) under deck
  - Umbilical (A drive): https://www.printables.com/model/326623-voron-trident-wire-cover-w-pg7-cable-gland-adapter
  - CB-CW: https://github.com/kejar31/VoronMods/tree/main/CB-C2
 
-### Planned
+### TODO
  - Z motor covers: https://www.teamfdm.com/files/file/555-z-motor-cover-trident/?tab=details
  - Bowden Guide: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
  - Nozzle scrubber: https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber
