@@ -49,3 +49,4 @@
  - [BTT Manta M8P Manual](https://github.com/bigtreetech/Manta-M8P/blob/master/BIGTREETECH%20MANTA%20M8P%20V1.0%26V1.1%20User%20Manual.pdf)
  - [BTT EB36 Manual](https://github.com/bigtreetech/EBB/tree/master/EBB%20CAN%20V1.1%20(STM32G0B1)/EBB36%20CAN%20V1.1)
  - [BTT U2C v2.1 Setup Instructions (Voron Discord)](https://discord.com/channels/460117602945990666/1000794039832035530/1016059566439538759)
+ - [Klipper neopixel](https://github.com/digitalninja-ro/klipper-neopixel)
