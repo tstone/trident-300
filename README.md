@@ -34,7 +34,7 @@
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Side-entry exhaust: https://www.printables.com/model/298117-voron-exhaust-filament-side-entry
  - Vent hose adapter: https://www.printables.com/model/222658-voron-24r2-60mm-exhaust-flex-tube-adapter
- - Revo Nozzle Skirt: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
+ - Revo Nozzle Holder: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
  - Nevermore or "The Filter"
  - Heavy Duty Handles https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
  - BTT Filament sensor: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
