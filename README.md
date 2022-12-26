@@ -12,7 +12,7 @@
  - **Pi**: BTT CB1
  - **Controller**: BTT Manta M8P
  - **Can Interface**: BTT U2C v2.1
- - **Toolhead**: Board: BTT EBB36 v1.2
+ - **Toolhead Board**: BTT EBB36 v1.2
  - **Hotend**: E3D Revo Voron
 
 ## Mods
