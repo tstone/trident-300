@@ -30,9 +30,8 @@
  - CB-CW: https://github.com/kejar31/VoronMods/tree/main/CB-C2
  - Bowden Guide: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
  - Nozzle scrubber: https://github.com/VoronDesign/VoronUsers/tree/master/orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber
- - Nozzle scrubber Trident mount: 
-   - https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident
-   - https://www.printables.com/model/174526-trident-mount-for-decontaminator-purge-bucket-nozz
+ - Nozzle Scrubber: https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
+ - Nozzle Scrubber Trident Mount: https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Side-entry exhaust: https://www.printables.com/model/298117-voron-exhaust-filament-side-entry
  - Vent hose adapter: https://www.printables.com/model/222658-voron-24r2-60mm-exhaust-flex-tube-adapter
