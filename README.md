@@ -41,6 +41,7 @@
  - Heavy Duty Handles https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
  - BTT Filament sensor: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
  - LED Clip: https://mods.vorondesign.com/detail/8S6KN4daUCgRhEJEX1stQ
+ - Voron Tap: https://github.com/VoronDesign/Voron-Tap
 
 ### TBD
   - Trident Bed Fans: https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
