@@ -27,9 +27,9 @@
  - Z motor covers: https://www.teamfdm.com/files/file/555-z-motor-cover-trident/?tab=details
  - Nozzle Scrubber: https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
  - Nozzle Scrubber Trident Mount: https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident
+ - CB-CW: https://github.com/kejar31/VoronMods/tree/main/CB-C2
 
 ### TODO
- - CB-CW: https://github.com/kejar31/VoronMods/tree/main/CB-C2
  - Nevermore or "The Filter"
  - Vent hose adapter: https://www.printables.com/model/222658-voron-24r2-60mm-exhaust-flex-tube-adapter
  - Bowden Guide: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
