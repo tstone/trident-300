@@ -28,13 +28,13 @@
  - Nozzle Scrubber: https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
  - Nozzle Scrubber Trident Mount: https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident
  - CB-CW: https://github.com/kejar31/VoronMods/tree/main/CB-C2
+ - Bowden Guide: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
+ - LED effects: https://github.com/julianschill/klipper-led_effect
 
 ### TODO
  - Nevermore or "The Filter"
  - Vent hose adapter: https://www.printables.com/model/222658-voron-24r2-60mm-exhaust-flex-tube-adapter
- - Bowden Guide: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
  - Chamber Thermistor: https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw
- - LED effects: https://github.com/julianschill/klipper-led_effect
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Side-entry exhaust: https://www.printables.com/model/298117-voron-exhaust-filament-side-entry
  - Revo Nozzle Holder: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
