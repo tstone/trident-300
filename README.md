@@ -31,6 +31,7 @@
  - Bowden Guide: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
  - LED effects: https://github.com/julianschill/klipper-led_effect
  - Vent hose adapter: https://www.printables.com/model/222658-voron-24r2-60mm-exhaust-flex-tube-adapter
+ - Back Logo (based on): https://www.vecteezy.com/vector-art/7501249-vintage-trident-spear-of-poseidon-neptune-god-triton-king-logo-design-suitable-for-your-design-need-logo-illustration-animation-etc
 
 ### TODO
  - Nevermore or "The Filter"
