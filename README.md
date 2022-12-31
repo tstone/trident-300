@@ -30,10 +30,13 @@
  - CB-CW: https://github.com/kejar31/VoronMods/tree/main/CB-C2
  - Bowden Guide: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
  - LED effects: https://github.com/julianschill/klipper-led_effect
+ - Vent hose adapter: https://www.printables.com/model/222658-voron-24r2-60mm-exhaust-flex-tube-adapter
 
 ### TODO
  - Nevermore or "The Filter"
- - Vent hose adapter: https://www.printables.com/model/222658-voron-24r2-60mm-exhaust-flex-tube-adapter
+ - Cricut Logos: https://mods.vorondesign.com/detail/FDqscS50BRdqtEhUK1U9hA
+ - 270 Front Hinges: https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg
+ - Deck Panel Clips: https://mods.vorondesign.com/detail/7vnCQwmDSUxvUPSLaLtElg
  - Chamber Thermistor: https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Side-entry exhaust: https://www.printables.com/model/298117-voron-exhaust-filament-side-entry
