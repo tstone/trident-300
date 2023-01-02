@@ -15,6 +15,11 @@
  - **Toolhead Board**: BTT EBB36 v1.2
  - **Hotend**: E3D Revo Voron
 
+## End Stops
+ - X: [X Carriage](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/X_Carriage)
+ - Y: [y_endstop_housing](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/AB_Drive_Units/%5Ba%5D_y_endstop_housing.stl)
+ - Z: [SexBolt](https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg)
+
 ## Mods
  - Klicky PCB: https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
  - Pin Mod: https://mods.vorondesign.com/detail/C8XJJ0fBGfBFKQZctjKeA
