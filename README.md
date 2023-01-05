@@ -37,15 +37,14 @@
  - LED effects: https://github.com/julianschill/klipper-led_effect
  - Vent hose adapter: https://www.printables.com/model/222658-voron-24r2-60mm-exhaust-flex-tube-adapter
  - Back Logo (based on): https://www.vecteezy.com/vector-art/7501249-vintage-trident-spear-of-poseidon-neptune-god-triton-king-logo
+ - Nevermore Micro Duo v5: https://github.com/nevermore3d/Nevermore_Micro
+ - Deck Panel Clips: https://mods.vorondesign.com/detail/7vnCQwmDSUxvUPSLaLtElg
+ - Side Entry Exhaust
 
 ### TODO
- - Nevermore or "The Filter"
- - Cricut Logos: https://mods.vorondesign.com/detail/FDqscS50BRdqtEhUK1U9hA
  - 270 Front Hinges: https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg
- - Deck Panel Clips: https://mods.vorondesign.com/detail/7vnCQwmDSUxvUPSLaLtElg
  - Chamber Thermistor: https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
- - Side-entry exhaust: https://www.printables.com/model/298117-voron-exhaust-filament-side-entry
  - Revo Nozzle Holder: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
  - Heavy Duty Handles https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
  - BTT Filament sensor: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
