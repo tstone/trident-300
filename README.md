@@ -40,10 +40,13 @@
  - Nevermore Micro Duo v5: https://github.com/nevermore3d/Nevermore_Micro
  - Deck Panel Clips: https://mods.vorondesign.com/detail/7vnCQwmDSUxvUPSLaLtElg
  - Side Entry Exhaust
+ - Chamber Thermistor: https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw
 
 ### TODO
- - 270 Front Hinges: https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg
- - Chamber Thermistor: https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw
+ - One piece door with...
+   - 270 Front Hinges: https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg
+   - Snap Latches (front door): https://mods.vorondesign.com/detail/9Rdnf5vD2oaJLmR7BpAuQ
+ - V0 Handle: https://github.com/VoronDesign/Voron-0/blob/Voron0.1/STLs/Panel_Mounting/Door_Handle_x1.STL
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Revo Nozzle Holder: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
  - Heavy Duty Handles https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
