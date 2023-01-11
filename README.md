@@ -47,13 +47,11 @@
    - Video: https://youtube.com/shorts/7rg-bvvLkAM?feature=share
 
 ### TODO
+ - Daylight on a Stick: https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Heavy Duty Handles https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
  - BTT Filament sensor: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
    - Guide: https://github.com/samwiseg0/Voron-Documentation/blob/add-btt-smart-sensor/community/howto/samwiseg0/btt_smart_filament_sensor.md
-
-## Project "Visibility"
- - Enclosure lighting
  - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
 
 ## Project "Bed Rebuild"
