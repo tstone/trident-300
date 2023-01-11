@@ -41,12 +41,11 @@
  - Deck Panel Clips: https://mods.vorondesign.com/detail/7vnCQwmDSUxvUPSLaLtElg
  - Side Entry Exhaust
  - Chamber Thermistor: https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw
-
-### TODO
  - One piece door with...
    - 270 Front Hinges: https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg
    - Snap Latches (front door): https://mods.vorondesign.com/detail/9Rdnf5vD2oaJLmR7BpAuQ
-   - Handle: https://www.printables.com/model/304466-filament-spool-knob
+
+### TODO
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Revo Nozzle Holder: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
  - Heavy Duty Handles https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
@@ -58,6 +57,7 @@
 
 ### TBD
   - Trident Bed Fans: https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
+  - Handle: https://www.printables.com/model/304466-filament-spool-knob
   
 ## Reference
  - [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
