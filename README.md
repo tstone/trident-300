@@ -52,7 +52,7 @@
  - BTT Filament sensor: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
    - Guide: https://github.com/samwiseg0/Voron-Documentation/blob/add-btt-smart-sensor/community/howto/samwiseg0/btt_smart_filament_sensor.md
 
-## Projet "Need to See"
+## Project "Need to See"
  - LED Clip: https://mods.vorondesign.com/detail/8S6KN4daUCgRhEJEX1stQ
  - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
 
