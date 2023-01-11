@@ -54,6 +54,7 @@
    - Guide: https://github.com/samwiseg0/Voron-Documentation/blob/add-btt-smart-sensor/community/howto/samwiseg0/btt_smart_filament_sensor.md
  - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
  - Skirt buttons: https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons
+ - LCD chamber temps: https://github.com/alchemyEngine/VoronUsers/tree/master/firmware_configurations/klipper/alch3my
 
 ## Project "Bed Rebuild"
  - Edge-to-edge heater
