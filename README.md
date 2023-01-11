@@ -44,6 +44,7 @@
  - One piece door with...
    - 270 Front Hinges: https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg
    - Snap Latches (front door): https://mods.vorondesign.com/detail/9Rdnf5vD2oaJLmR7BpAuQ
+   - Video: https://youtube.com/shorts/7rg-bvvLkAM?feature=share
 
 ### TODO
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
@@ -60,6 +61,7 @@
  - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
  - Lightweighgt Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
  - Replace magnet: https://www.youtube.com/watch?v=xarmgigvHrU
+ - TBD: Silicon flap to replace nozzle brush
 
 ### TBD
   - Handle: https://www.printables.com/model/304466-filament-spool-knob
