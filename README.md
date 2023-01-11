@@ -59,7 +59,7 @@
  - Edge-to-edge heater
  - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
  - Lightweighgt Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
- - Replace magnet with flat curing -  https://www.youtube.com/watch?v=xarmgigvHrU
+ - Replace magnet: https://www.youtube.com/watch?v=xarmgigvHrU
 
 ### TBD
   - Handle: https://www.printables.com/model/304466-filament-spool-knob
