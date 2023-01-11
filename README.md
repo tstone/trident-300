@@ -55,8 +55,13 @@
  - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
  - Voron Tap: https://github.com/VoronDesign/Voron-Tap
 
+## Project "Bed Rebuild"
+ - Edge-to-edge heater
+ - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
+ - Lightweighgt Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
+ - Replace magnet with flat curing -  https://www.youtube.com/watch?v=xarmgigvHrU
+
 ### TBD
-  - Trident Bed Fans: https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
   - Handle: https://www.printables.com/model/304466-filament-spool-knob
   
 ## Reference
