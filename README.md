@@ -66,6 +66,7 @@
 ## Project "Toolhead Rebuild"
  - DropEffect XG
  - Voron Tap: https://github.com/VoronDesign/Voron-Tap
+ - Stealthburner lighting
  - CB-CW fan
 
 ### TBD
