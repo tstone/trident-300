@@ -48,13 +48,13 @@
 
 ### TODO
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
- - Revo Nozzle Holder: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
  - Heavy Duty Handles https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
  - BTT Filament sensor: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
    - Guide: https://github.com/samwiseg0/Voron-Documentation/blob/add-btt-smart-sensor/community/howto/samwiseg0/btt_smart_filament_sensor.md
+
+## Projet "Need to See"
  - LED Clip: https://mods.vorondesign.com/detail/8S6KN4daUCgRhEJEX1stQ
  - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
- - Voron Tap: https://github.com/VoronDesign/Voron-Tap
 
 ## Project "Bed Rebuild"
  - Edge-to-edge heater
@@ -63,8 +63,14 @@
  - Replace magnet: https://www.youtube.com/watch?v=xarmgigvHrU
  - TBD: Silicon flap to replace nozzle brush
 
+## Project "Toolhead Rebuild"
+ - DropEffect XG
+ - Voron Tap: https://github.com/VoronDesign/Voron-Tap
+ - CB-CW fan
+
 ### TBD
   - Handle: https://www.printables.com/model/304466-filament-spool-knob
+  - Revo Nozzle Holder: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
   
 ## Reference
  - [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
