@@ -44,20 +44,34 @@
  - One piece door with...
    - 270 Front Hinges: https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg
    - Snap Latches (front door): https://mods.vorondesign.com/detail/9Rdnf5vD2oaJLmR7BpAuQ
+   - Video: https://youtube.com/shorts/7rg-bvvLkAM?feature=share
 
 ### TODO
+ - Daylight on a Stick: https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
- - Revo Nozzle Holder: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
  - Heavy Duty Handles https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
  - BTT Filament sensor: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
    - Guide: https://github.com/samwiseg0/Voron-Documentation/blob/add-btt-smart-sensor/community/howto/samwiseg0/btt_smart_filament_sensor.md
- - LED Clip: https://mods.vorondesign.com/detail/8S6KN4daUCgRhEJEX1stQ
  - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
+ - Skirt buttons: https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons
+ - LCD chamber temps: https://github.com/alchemyEngine/VoronUsers/tree/master/firmware_configurations/klipper/alch3my
+
+## Project "Bed Rebuild"
+ - Edge-to-edge heater
+ - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
+ - Lightweighgt Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
+ - Replace magnet: https://www.youtube.com/watch?v=xarmgigvHrU
+ - TBD: Silicon flap to replace nozzle brush
+
+## Project "Toolhead Rebuild"
+ - DropEffect XG
  - Voron Tap: https://github.com/VoronDesign/Voron-Tap
+ - Stealthburner lighting
+ - CB-CW fan
 
 ### TBD
-  - Trident Bed Fans: https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
   - Handle: https://www.printables.com/model/304466-filament-spool-knob
+  - Revo Nozzle Holder: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
   
 ## Reference
  - [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
