@@ -60,11 +60,11 @@
 ## Project "Bed Rebuild"
  - Edge-to-edge heater
  - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
- - Lightweighgt Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
+ - Lightweight Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
  - Replace magnet: https://www.youtube.com/watch?v=xarmgigvHrU
- - TBD: Silicon flap to replace nozzle brush
 
 ## Project "Toolhead Rebuild"
+ - TBD: Silicon flap to replace nozzle brush
  - DropEffect XG
  - Voron Tap: https://github.com/VoronDesign/Voron-Tap
  - Stealthburner lighting
