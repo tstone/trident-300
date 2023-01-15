@@ -48,6 +48,7 @@
 
 ### TODO
  - Daylight on a Stick: https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight
+ - Bed mesh only print area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Heavy Duty Handles https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
  - Custom LCD display: https://github.com/alchemyEngine/VoronUsers/tree/master/firmware_configurations/klipper/alch3my
@@ -60,11 +61,11 @@
 ## Project "Bed Rebuild"
  - Edge-to-edge heater
  - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
- - Lightweighgt Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
+ - Lightweight Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
  - Replace magnet: https://www.youtube.com/watch?v=xarmgigvHrU
- - TBD: Silicon flap to replace nozzle brush
 
 ## Project "Toolhead Rebuild"
+ - TBD: Silicon flap to replace nozzle brush
  - DropEffect XG
  - Voron Tap: https://github.com/VoronDesign/Voron-Tap
  - Stealthburner lighting
