@@ -18,7 +18,7 @@
 ## End Stops
  - X: [X Carriage](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/X_Carriage)
  - Y: [y_endstop_housing](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/AB_Drive_Units/%5Ba%5D_y_endstop_housing.stl)
- - Z: [SexBolt](https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg)
+ - Z: ~[SexBolt](https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg)~ Now [Probe as Z Endstop](https://github.com/Klipper3d/klipper/blob/master/config/sample-probe-as-z-endstop.cfg)
 
 ## Mods
  - Klicky PCB: https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
