@@ -57,17 +57,13 @@
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Frame Handles https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/front_panel_rest_3%2B6mm_x2_Rev1.STL
  - Custom LCD display: https://github.com/alchemyEngine/VoronUsers/tree/master/firmware_configurations/klipper/alch3my
- - BTT Filament sensor: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
-   - Guide: https://github.com/samwiseg0/Voron-Documentation/blob/add-btt-smart-sensor/community/howto/samwiseg0/btt_smart_filament_sensor.md
  - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
- - Skirt buttons: https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons
- - Hygrometer via GPIO
 
 ## Project "Toolhead Rebuild"
  - DropEffect XG
- - Stealthburner lighting
+ - Stealthburner + rainbow barf lighting
  - CB-CW fan
- - TBD: Voron Tap: https://github.com/VoronDesign/Voron-Tap
+ - Chainflex 018-D series umbilical
 
 ### TBD
   - Handle: https://www.printables.com/model/304466-filament-spool-knob
