@@ -54,7 +54,7 @@
  - Daylight on a Stick: https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight
  - Bed mesh only print area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
- - Heavy Duty Handles https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w
+ - Frame Handles https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/front_panel_rest_3%2B6mm_x2_Rev1.STL
  - Custom LCD display: https://github.com/alchemyEngine/VoronUsers/tree/master/firmware_configurations/klipper/alch3my
  - BTT Filament sensor: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount
    - Guide: https://github.com/samwiseg0/Voron-Documentation/blob/add-btt-smart-sensor/community/howto/samwiseg0/btt_smart_filament_sensor.md
