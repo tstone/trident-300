@@ -45,6 +45,10 @@
    - 270 Front Hinges: https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg
    - Snap Latches (front door): https://mods.vorondesign.com/detail/9Rdnf5vD2oaJLmR7BpAuQ
    - Video: https://youtube.com/shorts/7rg-bvvLkAM?feature=share
+ - Edge-to-edge heater
+ - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
+ - Lightweight Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
+ - DIY silicon flap brush (to be released after more testing)
 
 ### TODO
  - Daylight on a Stick: https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight
@@ -58,18 +62,11 @@
  - Skirt buttons: https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons
  - Hygrometer via GPIO
 
-## Project "Bed Rebuild"
- - Edge-to-edge heater
- - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
- - Lightweight Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
- - Replace magnet: https://www.youtube.com/watch?v=xarmgigvHrU
-
 ## Project "Toolhead Rebuild"
- - TBD: Silicon flap to replace nozzle brush
  - DropEffect XG
- - Voron Tap: https://github.com/VoronDesign/Voron-Tap
  - Stealthburner lighting
  - CB-CW fan
+ - TBD: Voron Tap: https://github.com/VoronDesign/Voron-Tap
 
 ### TBD
   - Handle: https://www.printables.com/model/304466-filament-spool-knob
