@@ -22,7 +22,7 @@
 
 ## Mods
  - Klicky PCB: https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
-  - Trident dock mount: https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v1.8_v2.4_Legacy_Trident/Usermods/Mneuhaus
+   - Trident dock mount: https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v1.8_v2.4_Legacy_Trident/Usermods/Mneuhaus
  - Pin Mod: https://mods.vorondesign.com/detail/C8XJJ0fBGfBFKQZctjKeA
  - SexBolt: https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg
  - Stealth Bed Front: https://github.com/MapleLeafMakers/Stealth_Bed_Front
