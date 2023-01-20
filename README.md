@@ -70,10 +70,6 @@
  - Stealthburner + rainbow barf lighting
  - CB-CW fan
  - Chainflex 018-D series umbilical
-
-### TBD
-  - Handle: https://www.printables.com/model/304466-filament-spool-knob
-  - Revo Nozzle Holder: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
   
 ## Reference
  - [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
