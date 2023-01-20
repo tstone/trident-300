@@ -50,7 +50,7 @@
  - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
  - Lightweight Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
  - DIY silicon flap brush (to be released after more testing)
- - ~Horizontal Spool Holder~: https://mods.vorondesign.com/detail/x2umK6ZcG6l2c5EEM2LQjQ
+ - ~Horizontal Spool Holder: https://mods.vorondesign.com/detail/x2umK6ZcG6l2c5EEM2LQjQ~
  - Bed mesh only print area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
 
 ### TODO
