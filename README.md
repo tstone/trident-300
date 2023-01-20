@@ -52,7 +52,7 @@
  - DIY silicon flap brush (to be released after more testing)
  - ~Horizontal Spool Holder~: https://mods.vorondesign.com/detail/x2umK6ZcG6l2c5EEM2LQjQ
  - Bed mesh only print area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
- - 
+
 ### TODO
  - Skirts
  - Update bed thermister to 104NT and re-PID tune
