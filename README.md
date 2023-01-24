@@ -18,7 +18,8 @@
 ## End Stops
  - X: [X Carriage](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/X_Carriage)
  - Y: [y_endstop_housing](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/AB_Drive_Units/%5Ba%5D_y_endstop_housing.stl)
- - Z: ~[SexBolt](https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg)~ Now [Probe as Z Endstop](https://github.com/Klipper3d/klipper/blob/master/config/sample-probe-as-z-endstop.cfg)
+ - ~Z: [SexBolt](https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg)~ 
+ - Z: [Probe as Z Endstop](https://github.com/Klipper3d/klipper/blob/master/config/sample-probe-as-z-endstop.cfg)
 
 ## Mods
  - Klicky PCB: https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
@@ -50,29 +51,26 @@
  - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
  - Lightweight Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
  - DIY silicon flap brush (to be released after more testing)
- - Horizontal Spool Holder: https://mods.vorondesign.com/detail/x2umK6ZcG6l2c5EEM2LQjQ
+ - ~Horizontal Spool Holder: https://mods.vorondesign.com/detail/x2umK6ZcG6l2c5EEM2LQjQ~
+ - Bed mesh only print area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
+ - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
 
 ### TODO
- - Skirts
  - Update bed thermister to 104NT and re-PID tune
+ - Skirts 
  - Top spool holder: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders
- - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Frame Handles https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/front_panel_rest_3%2B6mm_x2_Rev1.STL
  - Custom LCD display: https://github.com/alchemyEngine/VoronUsers/tree/master/firmware_configurations/klipper/alch3my
- - Bed mesh only print area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
  - MCU to Klipper 11
+ - Filament swap macro (M600?)
+ - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
+ - Daylight on a Stick: https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight
 
 ## Project "Toolhead Rebuild"
  - DropEffect XG
  - Stealthburner + rainbow barf lighting
  - CB-CW fan
  - Chainflex 018-D series umbilical
- - Daylight on a Stick: https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight
- - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
-
-### TBD
-  - Handle: https://www.printables.com/model/304466-filament-spool-knob
-  - Revo Nozzle Holder: https://github.com/MapleLeafMakers/Revo_Nozzle_Skirt
   
 ## Reference
  - [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
