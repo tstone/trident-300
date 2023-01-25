@@ -25,17 +25,14 @@
  - Z: [Voron Tap](https://github.com/VoronDesign/Voron-Tap)
 
 ## Mods
- - Klicky PCB: https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
-   - Trident dock mount: https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v1.8_v2.4_Legacy_Trident/Usermods/Mneuhaus
  - Pin Mod: https://mods.vorondesign.com/detail/C8XJJ0fBGfBFKQZctjKeA
- - SexBolt: https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg
  - Stealth Bed Front: https://github.com/MapleLeafMakers/Stealth_Bed_Front
  - U2C Mount: https://mods.vorondesign.com/detail/guUSuCXHsOqPH1Xn5cS1Ag 
  - M8P bracket: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/gerritwellen/manta-m8p-bracket
  - Insulation: [3mm cell foam](https://www.amazon.com/dp/B01KX94XE6?psc=1&ref=ppx_yo2ov_dt_b_product_details) under deck
  - Umbilical (A drive): https://www.printables.com/model/326623-voron-trident-wire-cover-w-pg7-cable-gland-adapter
  - Z motor covers: https://www.teamfdm.com/files/file/555-z-motor-cover-trident/?tab=details
- - Nozzle Scrubber: https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
+
  - Nozzle Scrubber Trident Mount: https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident
  - CB-CW: https://github.com/kejar31/VoronMods/tree/main/CB-C2
  - Bowden Guide: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
@@ -54,10 +51,16 @@
  - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
  - Lightweight Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
  - DIY silicon flap brush (to be released after more testing)
- - ~Horizontal Spool Holder: https://mods.vorondesign.com/detail/x2umK6ZcG6l2c5EEM2LQjQ~
+ - Horizontal Spool Holder: https://mods.vorondesign.com/detail/x2umK6ZcG6l2c5EEM2LQjQ
  - Bed mesh only print area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Chainflex 018-D series umbilical
+
+### Removed Mods
+ - Klicky PCB: https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky (replaced by Tap)
+   - Trident dock mount: https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v1.8_v2.4_Legacy_Trident/Usermods/Mneuhaus
+ - SexBolt: https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg
+ - Nozzle Scrubber: https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
  
 ### TODO
  - Skirts 
