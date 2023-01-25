@@ -13,13 +13,16 @@
  - **Controller**: BTT Manta M8P
  - **Can Interface**: BTT U2C v2.1
  - **Toolhead Board**: BTT EBB36 v1.2
- - **Hotend**: E3D Revo Voron
+ - ~**Hotend**: E3D Revo Voron~
+ - **Hotend**: [DropEffect/Phaetus XG](https://dropeffect.phaetus.com/products/xg-hotend)
 
 ## End Stops
- - X: [X Carriage](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/X_Carriage)
+ - ~X: [X Carriage](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/X_Carriage)~
+ - X: [Sensorless homing](https://mmone.github.io/klipper/Sensorless_Homing.html)
  - Y: [y_endstop_housing](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/AB_Drive_Units/%5Ba%5D_y_endstop_housing.stl)
  - ~Z: [SexBolt](https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg)~ 
- - Z: [Probe as Z Endstop](https://github.com/Klipper3d/klipper/blob/master/config/sample-probe-as-z-endstop.cfg)
+ - ~Z: [Probe as Z Endstop](https://github.com/Klipper3d/klipper/blob/master/config/sample-probe-as-z-endstop.cfg)~
+ - Z: [Voron Tap](https://github.com/VoronDesign/Voron-Tap)
 
 ## Mods
  - Klicky PCB: https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
@@ -54,10 +57,13 @@
  - ~Horizontal Spool Holder: https://mods.vorondesign.com/detail/x2umK6ZcG6l2c5EEM2LQjQ~
  - Bed mesh only print area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
-
+ - DropEffect XG
+ - Chainflex 018-D series umbilical
+ 
 ### TODO
- - Update bed thermister to 104NT and re-PID tune
  - Skirts 
+ - Stealthburner + rainbow barf lighting
+ - CB-CW fan
  - Top spool holder: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders
  - Frame Handles https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/front_panel_rest_3%2B6mm_x2_Rev1.STL
  - Custom LCD display: https://github.com/alchemyEngine/VoronUsers/tree/master/firmware_configurations/klipper/alch3my
@@ -66,11 +72,6 @@
  - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
  - Daylight on a Stick: https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight
 
-## Project "Toolhead Rebuild"
- - DropEffect XG
- - Stealthburner + rainbow barf lighting
- - CB-CW fan
- - Chainflex 018-D series umbilical
   
 ## Reference
  - [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
