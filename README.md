@@ -57,7 +57,6 @@
  - ~Horizontal Spool Holder: https://mods.vorondesign.com/detail/x2umK6ZcG6l2c5EEM2LQjQ~
  - Bed mesh only print area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
- - DropEffect XG
  - Chainflex 018-D series umbilical
  
 ### TODO
