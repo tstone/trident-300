@@ -32,7 +32,6 @@
  - Insulation: [3mm cell foam](https://www.amazon.com/dp/B01KX94XE6?psc=1&ref=ppx_yo2ov_dt_b_product_details) under deck
  - Umbilical (A drive): https://www.printables.com/model/326623-voron-trident-wire-cover-w-pg7-cable-gland-adapter
  - Z motor covers: https://www.teamfdm.com/files/file/555-z-motor-cover-trident/?tab=details
-
  - Nozzle Scrubber Trident Mount: https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident
  - CB-CW: https://github.com/kejar31/VoronMods/tree/main/CB-C2
  - Bowden Guide: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
@@ -50,11 +49,11 @@
  - Edge-to-edge heater
  - Trident Bed Fans (dual 5015): https://mods.vorondesign.com/detail/qtM0MIMBV51pSVvU2BezEw
  - Lightweight Labware kinematic mount: https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
- - DIY silicon flap brush (to be released after more testing)
  - Horizontal Spool Holder: https://mods.vorondesign.com/detail/x2umK6ZcG6l2c5EEM2LQjQ
  - Bed mesh only print area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Chainflex 018-D series umbilical
+ - DIY silicon flap brush (to be released after more testing)
 
 ### Removed Mods
  - Klicky PCB: https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky (replaced by Tap)
@@ -67,7 +66,6 @@
  - Stealthburner + rainbow barf lighting
  - CB-CW fan
  - Top spool holder: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders
- - Frame Handles https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/front_panel_rest_3%2B6mm_x2_Rev1.STL
  - Custom LCD display: https://github.com/alchemyEngine/VoronUsers/tree/master/firmware_configurations/klipper/alch3my
  - MCU to Klipper 11
  - Filament swap macro (M600?)
