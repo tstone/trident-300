@@ -57,6 +57,7 @@
  - Rainbow Barf: https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED
  - Daylight on a Stick: https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight
  - Frame Handles https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/front_panel_rest_3%2B6mm_x2_Rev1.STL
+  - Nozzle Scrubber: https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
  
 ### TODO
  - Pi fan
@@ -70,10 +71,9 @@
  - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
 
 ### Removed Mods
- - Klicky PCB: https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky (replaced by Tap)
+ - Klicky PCB (replaced by Tap): https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
    - Trident dock mount: https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v1.8_v2.4_Legacy_Trident/Usermods/Mneuhaus
- - SexBolt: https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg
- - Nozzle Scrubber: https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
+ - SexBolt (replaced by Tap): https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg
   
 ## Reference
  - [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
