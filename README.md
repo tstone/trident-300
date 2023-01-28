@@ -60,6 +60,7 @@
  
 ### TODO
  - Pi fan
+ - Better probe activate (cool to 145C)
  - Nozzle lights on filament load/unload
  - Better LED FX layers
  - Custom LCD display: https://github.com/alchemyEngine/VoronUsers/tree/master/firmware_configurations/klipper/alch3my
