@@ -60,7 +60,6 @@
   - Nozzle Scrubber: https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
  
 ### TODO
- - Pi fan
  - Better probe activate (cool to 145C)
  - Nozzle lights on filament load/unload
  - Better LED FX layers
@@ -69,6 +68,8 @@
  - MCU to Klipper 11
  - Filament swap macro (M600?)
  - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
+ - Nevermore Max: https://github.com/nevermore3d/Nevermore_Max
+    - Klipper: https://github.com/nknotts/klipper-nevermore-max
 
 ### Removed Mods
  - Klicky PCB (replaced by Tap): https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
