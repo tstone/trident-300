@@ -60,9 +60,7 @@
   - Nozzle Scrubber: https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
  
 ### TODO
- - Better probe activate (cool to 145C)
  - Nozzle lights on filament load/unload
- - Better LED FX layers
  - Custom LCD display: https://github.com/alchemyEngine/VoronUsers/tree/master/firmware_configurations/klipper/alch3my
  - Top spool holder: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders
  - MCU to Klipper 11
