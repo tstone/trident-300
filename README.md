@@ -40,7 +40,7 @@
  - Back Logo (based on): https://www.vecteezy.com/vector-art/7501249-vintage-trident-spear-of-poseidon-neptune-god-triton-king-logo
  - Nevermore Micro Duo v5: https://github.com/nevermore3d/Nevermore_Micro
  - Deck Panel Clips: https://mods.vorondesign.com/detail/7vnCQwmDSUxvUPSLaLtElg
- - Side Entry Exhaust
+ - Side Entry Exhaust: https://mods.vorondesign.com/detail/YI1xmcLeAMZ4mNkh0Ytg
  - Chamber Thermistor: https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw
  - One piece door with...
    - 270 Front Hinges: https://mods.vorondesign.com/detail/eeRCH8EJiLrIF5q5l3AQg
