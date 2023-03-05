@@ -64,9 +64,6 @@
  - Top spool holder: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders
  - MCU to Klipper 11
  - Filament swap macro (M600?)
- - hartk Camera: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera
- - Nevermore Max: https://github.com/nevermore3d/Nevermore_Max
-    - Klipper: https://github.com/nknotts/klipper-nevermore-max
 
 ### Removed Mods
  - Klicky PCB (replaced by Tap): https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
