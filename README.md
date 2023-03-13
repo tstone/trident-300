@@ -62,6 +62,7 @@
  
 ### TODO
  - Top spool holder: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders
+ - 7530 Filter: https://github.com/yasuoki/ActivatedCarbonFilter7530
  - MCU to Klipper 11
  - Filament swap macro (M600?)
 
