@@ -62,9 +62,15 @@
  
 ### TODO
  - Top spool holder: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders
- - 7530 Filter: https://github.com/yasuoki/ActivatedCarbonFilter7530
- - MCU to Klipper 11
  - Filament swap macro (M600?)
+ - MCU to Klipper 11
+ - POM nuts
+ - Rebreather XL: https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Rebreather/Kirby-RebreatherXL
+ - Trident Tophat: https://github.com/jakub874/Jakub3DPrinterMods/tree/main/Tophat
+ - VzBot style PLA cooling ducts
+ - Lift-off hinges: https://www.printables.com/model/302551-lift-off-hinges-for-voron-trident-or-v2
+ - Door handle: https://www.printables.com/model/261630-voron-door-handle
+ - 48v + 5160s + speedy X/Y motors
 
 ### Removed Mods
  - Klicky PCB (replaced by Tap): https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
