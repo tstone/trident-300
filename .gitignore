@@ -5,3 +5,4 @@ database/
 gcodes/
 logs/
 
+config/nb.shared/
