@@ -71,11 +71,13 @@
  - CNC Tap
  - MCU to Klipper 11
  - Replace Brass nuts with POM nuts
- - VzBot style PLA cooling ducts
- - Rebreather XL: https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Rebreather/Kirby-RebreatherXL
+ - Bondtech integrated drive gear
+ - Meowburner: https://www.printables.com/model/362807-meowburner-the-puurrfect-stealthburner
 
 ### Project More Powah Baby
  - 48v + 5160s + speedy X/Y motors
+ - VzBot style PLA cooling ducts
+ - Rebreather XL: https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Rebreather/Kirby-RebreatherXL
 
 ### Removed Mods
  - Klicky PCB (replaced by Tap): https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
