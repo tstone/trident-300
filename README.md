@@ -73,6 +73,8 @@
  - CNC Tap
  - MCU to Klipper 11
  - Replace Brass nuts with POM nuts
+ - Re-calibrate pressure advance + input shaping
+ - Check screw tightness and rail lubrication
 
 ### Project Meow
  - Meowburner: https://www.printables.com/model/362807-meowburner-the-puurrfect-stealthburner
