@@ -74,16 +74,14 @@
  - MCU to Klipper 11
  - Replace Brass nuts with POM nuts
  - Re-calibrate pressure advance + input shaping
- - Check screw tightness and rail lubrication
-
-### Project Meow
- - Meowburner: https://www.printables.com/model/362807-meowburner-the-puurrfect-stealthburner
- - Bondtech integrated drive gear
 
 ### Project More Powah Baby
  - 48v X/Y
  - 5160 step stick
  - speedy X/Y motors
+ - Bondtech integrated drive gear
+ - AWD Nema 14 mod
+ - Reprint primary in Polymaker Galaxy ASA
 
 ### Removed Mods
  - Klicky PCB (replaced by Tap): https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
