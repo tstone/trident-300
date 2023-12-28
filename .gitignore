@@ -3,5 +3,6 @@ certs/
 comms/
 gcodes/
 logs/
+database/
 
 config/nb.shared/
