@@ -4,5 +4,6 @@ comms/
 gcodes/
 logs/
 database/
+misc/
 
 config/nb.shared/
