@@ -1,4 +1,4 @@
-# Trident 300 "Teal"
+# Trident 300 "Jelly Bean"
 
 ## Colors
   - Primary: [Paramount 3D ABS Fighter Jet Blue](https://www.paramount-3d.com/product-page/abs-pantone-fighter-jet-blue-7546c-1-75mm-1kg-filament-fbrl50087546c)
