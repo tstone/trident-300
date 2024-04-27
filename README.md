@@ -6,15 +6,17 @@
   - Frame: LDO Space Gray
 
 ## Electronics
- - **A/B Motors**: LDO-42STH48-2004MAH
+ - ~**A/B Motors**: LDO-42STH48-2004MAH~
+ - **A/B Motors**: LDO-42STH48-2804 @ 48v
  - **Z Motors**: LDO-42STH40-1684L300E
  - **Extruder Motor**: LDO-36STH20-1004AHG
  - **Pi**: BTT CB1
- - **Controller**: BTT Manta M8P
- - **Can Interface**: BTT U2C v2.1
+ - ~**Controller**: BTT Manta M8P~
+ - **Controller**: BTT Octopus Pro
+ - ~**Can Interface**: BTT U2C v2.1~
  - **Toolhead Board**: BTT EBB36 v1.2
- - ~**Hotend**: E3D Revo Voron~
- - **Hotend**: [DropEffect/Phaetus XG](https://dropeffect.phaetus.com/products/xg-hotend)
+ - **Hotend**: E3D Revo Voron HF
+ - ~**Hotend**: [DropEffect/Phaetus XG](https://dropeffect.phaetus.com/products/xg-hotend)~
 
 ## End Stops
  - ~X: [X Carriage](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/X_Carriage)~
@@ -22,23 +24,24 @@
  - Y: [y_endstop_housing](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Gantry/AB_Drive_Units/%5Ba%5D_y_endstop_housing.stl)
  - ~Z: [SexBolt](https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg)~ 
  - ~Z: [Probe as Z Endstop](https://github.com/Klipper3d/klipper/blob/master/config/sample-probe-as-z-endstop.cfg)~
- - Z: [Voron Tap](https://github.com/VoronDesign/Voron-Tap)
+ - ~Z: [Voron Tap](https://github.com/VoronDesign/Voron-Tap)~
+ - Z: [Beacon Rev D](https://beacon3d.com/)
 
 ## Mods
  - Pin Mod: https://mods.vorondesign.com/detail/C8XJJ0fBGfBFKQZctjKeA
  - Stealth Bed Front: https://github.com/MapleLeafMakers/Stealth_Bed_Front
- - U2C Mount: https://mods.vorondesign.com/detail/guUSuCXHsOqPH1Xn5cS1Ag 
- - M8P bracket: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/gerritwellen/manta-m8p-bracket
+ - ~U2C Mount: https://mods.vorondesign.com/detail/guUSuCXHsOqPH1Xn5cS1Ag~
+ - ~M8P bracket: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/gerritwellen/manta-m8p-bracket~
  - Insulation: [3mm cell foam](https://www.amazon.com/dp/B01KX94XE6?psc=1&ref=ppx_yo2ov_dt_b_product_details) under deck
  - Umbilical (A drive): https://www.printables.com/model/326623-voron-trident-wire-cover-w-pg7-cable-gland-adapter
  - Z motor covers: https://www.teamfdm.com/files/file/555-z-motor-cover-trident/?tab=details
- - Nozzle Scrubber Trident Mount: https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident
- - CB-CW: https://github.com/kejar31/VoronMods/tree/main/CB-C2
+ - ~Nozzle Scrubber Trident Mount: https://www.printables.com/model/298565-nozzle-scrubber-arm-extension-voron-trident~
+ - ~CB-CW: https://github.com/kejar31/VoronMods/tree/main/CB-C2~
  - Bowden Guide: https://github.com/GalvanicGlaze/Voron_Mods/tree/main/Trident%20Bowden%20tube%20PTFE%20guide
  - LED effects: https://github.com/julianschill/klipper-led_effect
  - Vent hose adapter: https://www.printables.com/model/222658-voron-24r2-60mm-exhaust-flex-tube-adapter
  - Back Logo (based on): https://www.vecteezy.com/vector-art/7501249-vintage-trident-spear-of-poseidon-neptune-god-triton-king-logo
- - Nevermore Micro Duo v5: https://github.com/nevermore3d/Nevermore_Micro
+ - Nevermore Micro Duo v5 (2): https://github.com/nevermore3d/Nevermore_Micro
  - Deck Panel Clips: https://mods.vorondesign.com/detail/7vnCQwmDSUxvUPSLaLtElg
  - Side Entry Exhaust: https://mods.vorondesign.com/detail/YI1xmcLeAMZ4mNkh0Ytg
  - Chamber Thermistor: https://mods.vorondesign.com/detail/dfRX88k7wwS6tpYlvyCEw
@@ -53,40 +56,10 @@
  - Bed mesh only print area: https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02
  - Profile covers: https://mods.vorondesign.com/detail/8PtM9BKgRdBUN7CZ8g6Q
  - Chainflex 018-D series umbilical
- - DIY silicon flap brush (to be released after more testing)
  - Rainbow Barf: https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED
  - Daylight on a Stick: https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight
- - Frame Handles https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/front_panel_rest_3%2B6mm_x2_Rev1.STL
-  - Nozzle Scrubber: https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
+ - ~Frame Handles https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/front_panel_rest_3%2B6mm_x2_Rev1.STL~
   - Custom LCD display: https://github.com/alchemyEngine/VoronUsers/tree/master/firmware_configurations/klipper/alch3my
- 
-### TODO
- - Top spool holder: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders
- - Filament swap macro (M600?)
- - Trident Tophat: https://github.com/jakub874/Jakub3DPrinterMods/tree/main/Tophat
- - Lift-off hinges: https://www.printables.com/model/302551-lift-off-hinges-for-voron-trident-or-v2
- - Door handle: https://www.printables.com/model/261630-voron-door-handle
- - VzBot style PLA cooling ducts
- - Rebreather XL: https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Misc/Rebreather/Kirby-RebreatherXL
-
-### Project 500hrs
- - CNC Tap
- - MCU to Klipper 11
- - Replace Brass nuts with POM nuts
- - Re-calibrate pressure advance + input shaping
-
-### Project More Powah Baby
- - 48v X/Y
- - 5160 step stick
- - speedy X/Y motors
- - Bondtech integrated drive gear
- - AWD Nema 14 mod
- - Reprint primary in Polymaker Galaxy ASA
-
-### Removed Mods
- - Klicky PCB (replaced by Tap): https://github.com/tanaes/whopping_Voron_mods/tree/main/pcb_klicky
-   - Trident dock mount: https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v1.8_v2.4_Legacy_Trident/Usermods/Mneuhaus
- - SexBolt (replaced by Tap): https://mods.vorondesign.com/detail/t1DBVlcUBbdEK6habEsVzg
   
 ## Reference
  - [Voron Trident Manual](https://github.com/VoronDesign/Voron-Trident/tree/main/Manual)
