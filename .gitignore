@@ -7,3 +7,4 @@ database/
 misc/
 
 config/nb.shared/
+octoeverywhere-store/*
