@@ -1,5 +1,5 @@
 # Trident 300 "Jelly Bean"
-Below is the list of choices and mods for my build of a 300mm [Voron Trident](https://vorondesign.com/voron_trident) 3d printer.
+Below is the list of choices and mods for my build of a 300mm [Voron Trident](https://vorondesign.com/voron_trident) 3d printer. Also check out my [shared-klipper-config](https://github.com/tstone/shared-klipper-config) for common routins shared amongst all my machines.
 
 ## Colors
   - Primary: [Paramount 3D ABS Fighter Jet Blue](https://www.paramount-3d.com/product-page/abs-pantone-fighter-jet-blue-7546c-1-75mm-1kg-filament-fbrl50087546c)
